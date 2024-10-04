@@ -1,0 +1,26 @@
+------------------Results-------------------
+####################################
+Customer name: Sophia Anderson
+Customer money paid: 177
+Customer gains: 245.70000000000002
+####################################
+Customer name: Noah Johnson
+Customer money paid: 156
+Customer gains: 0.0
+####################################
+Customer name: Isabella Smith
+Customer money paid: 1695
+Customer gains: 894.6
+####################################
+Customer name: William Brown
+Customer money paid: 1891
+Customer gains: 3162.8999999999996
+####################################
+Customer name: Charlotte Davis
+Customer money paid: 4867
+Customer gains: 6308.4
+####################################
+Customer name: James Wilson
+Customer money paid: 3636
+Customer gains: 2379.0
+--------------End-of-Results----------------
